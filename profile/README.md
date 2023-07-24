@@ -5,3 +5,5 @@ In 2018, at the 7th International Society for Physical Activity and Health held 
 The Global Healthy and Sustainable City Collaboration involves over 80 collaborators from 25 cities in 19 countries.  To oversee the study, an international 13-member study Executive was established, and has met monthly since 2018. 
 
 Read the study, recently published in [The Lancet Global Health Urban Design, Transport and Health Series](https://www.thelancet.com/series/urban-design-2022). And visit the [Global Observatory of Healthy and Sustainable Cities](https://www.healthysustainablecities.org/) to find out more about the team, see city reports and  scorecards, and about how to participate in our next phase, 🌈[the 1000 Cities Challenge](https://www.healthysustainablecities.org/1000cities).
+
+Find out how to download and use our [open source GHSCI software](https://global-healthy-liveable-cities.github.io/) for creating, comparing and reporting on urban indicators for healthy, equitable and sustainable cities, or [contribute to its development](https://github.com/global-healthy-liveable-cities/global-indicators).
